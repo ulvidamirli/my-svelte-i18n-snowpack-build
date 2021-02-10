@@ -1,0 +1,44 @@
+{
+    "navbar": {
+        "1": "Proqramlar",
+        "2": "Məqalələr",
+        "3": "Haqqımızda"
+    },
+    "footer": {
+        "col1-h1": "Resurslar",
+        "col1-p1": "Xaricdə təhsil proqramları",
+        "col1-p2": "Məqalələr",
+        "col2-h1": "Şirkət",
+        "col2-p1": "Haqqımızda",
+        "col2-p2": "Əlaqə saxla",
+        "col2-p3": "Brend qaydaları",
+        "col3-h1": "Kömək",
+        "col3-p1": "Yardım mərkəzi",
+        "col3-p2": "Bilik bazası",
+        "col3-p3": "Suallar",
+        "col4-p1": "Qanuni",
+        "col4-p2": "Gizlilik siyasəti",
+        "col4-p3": "Şərtlər",
+        "col4-p4": "GDPR uyğunluğu"
+    },
+    "home": {
+        "hero-h": "Akademik proqramlar, barmaqlarının ucunda.",
+        "hero-p": "Sizə, ən uyğun universitetinizi seçməkdə kömək edirik. Uğurlu olmaq üçün mövcud olan ən yaxşı vasitədən istifadə edin.",
+        "hero-btn-1": "Əlavə öyrən",
+        "hero-btn-2": "Proqramları axtar",
+        "hero-block-h1": "Güclü filterlər",
+        "hero-block-p1": "Qəbul və dil imtahanı nəticənizə görə də axtarın.",
+        "hero-block-h2": "Son məlumatlar",
+        "hero-block-p2": "Aktual və təsdiqlənmiş məlumatları paylaşırıq.",
+        "hero-block-h3": "Böyük databaza",
+        "hero-block-p3": "Söhbət 150.000-ə yaxın xaricdə təhsil proqramından gedir.",
+        "articles-h": "Son məqalələr",
+        "articles-see-all": "Bütün məqalələr"
+    },
+    "about": {
+        "title": "About"
+    },
+    "contact": {
+        "title": "Contact"
+    }
+}

@@ -1,0 +1,44 @@
+{
+  "navbar": {
+    "1": "Programs",
+    "2": "Articles",
+    "3": "About us"
+  },
+  "footer": {
+    "col1-h1": "Resources",
+    "col1-p1": "Academic programs",
+    "col1-p2": "Articles",
+    "col2-h1": "Company",
+    "col2-p1": "About us",
+    "col2-p2": "Contact us",
+    "col2-p3": "Brand guidelines",
+    "col3-h1": "Help",
+    "col3-p1": "Help center",
+    "col3-p2": "Knowledge base",
+    "col3-p3": "FAQ",
+    "col4-p1": "Legal",
+    "col4-p2": "Privacy policy",
+    "col4-p3": "Terms",
+    "col4-p4": "GDPR compliance"
+  },
+  "home": {
+    "hero-h": "Academic programs, at your fingertip.",
+    "hero-p": "We are guiding you to choose your best university. Use the best tool available to be successful.",
+    "hero-btn-1": "Learn more",
+    "hero-btn-2": "Search programs",
+    "hero-block-h1": "Powerful filters",
+    "hero-block-p1": "Filter by exam score, tuition fee, degree type and so on.",
+    "hero-block-h2": "Up to date data",
+    "hero-block-p2": "We publish approved content and update regularly.",
+    "hero-block-h3": "Big database",
+    "hero-block-p3": "We talk about more than 150.000 academic programs.",
+    "articles-h": "Latest articles",
+    "articles-see-all": "All articles"
+  },
+  "about": {
+    "title": "About"
+  },
+  "contact": {
+    "title": "Contact"
+  }
+}
